@@ -20,7 +20,6 @@ This repository contains the implementation for **Text2KG**, a research project 
 ├── metrics/               # Scripts to calculate evaluation metrics
 ├── visualizations/        # Generated KG visualizations
 ├── results/               # Output tables and evaluation results
-├── docs/                  # Detailed methodology and instructions
 ├── README.md              # Project overview (this file)
 └── requirements.txt       # Dependencies for the project
 ```
